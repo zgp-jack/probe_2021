@@ -1,0 +1,9 @@
+{
+ "VUE_APP_BASE" : "192.168.2.241",
+ "VUE_APP_FILE" : "",
+ "VUE_APP_WS" : "",
+ "VUE_APP_BASE_URL" : ":9040/api/",
+ "VUE_APP_FILE_URL" : ":9043/",
+ "VUE_APP_WS_URL" : ":9040/api/websocket/user_",
+ "VUE_APP_WS_SOURCE": "false"
+}
